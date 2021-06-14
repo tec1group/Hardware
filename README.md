@@ -39,3 +39,5 @@ When you want to Add or make Changes to the Repo.
 5. And yet another page, this time giving you the option to edit the "commit comments" that the Admins of the TEC1group will read before approval of the merge. Last time, click on "Create pull request".
 
 6. You will be taken to the list of Pull Requests for the Repo and see how many are outstanding etc.
+
+7. The admins of the TEC1group will review your chnages and as long as you keep the changes to a folder *you* created and maintain, then there is very little reason for them to not accept the changes and pull your work back to the master Repo for all and sundry to share. THANK YOU!
