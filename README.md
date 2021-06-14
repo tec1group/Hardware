@@ -19,9 +19,7 @@ When others add to the Repo, you'll probably want an up to date copy. (You don't
 
 2. You will be presented with two options, one is to "Compare" and the other is "Fetch and Merge"
 
-3. Now if you are very particular about what you download to your Repo, hit the Compare button which then (odly) seems to make a Pull Request to your own Repo (yes, you will be Pulling yourself) which allows you to see what the changes are to the files. Your only option then is to Accept ALL the changed files or none of them. Kind of odd, frankly. Soooo...
-
-4. The other option to just "Fetch and Merge" is probably the only real option and then just ignore the folders you don't care about. Meh!
+3. Click on "Fetch and Merge". (If there are folders you don't care to have, you can dleete them from your own copy of the repo.)
 
 <h2>ADDING TO THE REPO</h2>
 When you want to Add or make Changes to the Repo.
