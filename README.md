@@ -31,6 +31,7 @@ When you want to Add or make Changes to the Repo.
 2. Do your thing and create the hardware files in that folder; Schematics, Gerbers, documentation, PCB Layouts... Whatever it is you want to share and include into the TEC1group Hardware repository.
 
 3. Once you are done with all your changes and ready to share it with the Group, click on the "Contribute" button and then "Open pull request".
+
 ![image](https://user-images.githubusercontent.com/13119623/121885784-f0c19780-cd57-11eb-98e4-bf69235a7e5d.png)
 
 4. A page called "Comparing changes" appears, highlighting the new files you want to add. Again, click on "Create pull request".
