@@ -5,7 +5,9 @@ This Repository is for all files that relate to the hardware of the TEC-1:
 
 <h1>How to Use this Repo</h1>
 1. Make a FORK of this Repo to your own account. (You know you want to.)
+
 That's right, make a Fork of this entire Repo back to your account.
+
 Please keep the existing folder structure intact. If it isn't your folder, don't rename it or move it. Leave it be. Or if you don't want it, feel free to delete it from *your* Repo, but then your Pull Request (see below) may be difficult to follow/allow, if they try to remove files from the Master.
 
 <h2>KEEPING UP TO DATE</h2>
