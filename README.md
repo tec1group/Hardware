@@ -38,4 +38,4 @@ When you want to Add or make Changes to the Repo.
 
 6. You will be taken to the list of Pull Requests for the Repo and see how many are outstanding etc.
 
-7. The admins of the TEC1group will review your chnages and as long as you keep the changes to a folder *you* created and maintain, then there is very little reason for them to not accept the changes and pull your work back to the master Repo for all and sundry to share. THANK YOU!
+7. The admins of the TEC1group will review your changes and as long as you keep the changes to a folder *you* created and maintain, then there is very little reason for them to not accept the changes and pull your work back to the master Repo for all and sundry to share. THANK YOU!
