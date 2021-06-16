@@ -8,5 +8,8 @@ Lastly, it makes use of the little 20 pin expander that was never used on the or
 
 <b>NOTE:</b> This board has never been printed and has not been tested!  Please use at your own risk.
 
-ChangeLog:<bg>
+Change Log:<bg>
 - 16/6/21 - Schematic updated to fix the LCD interface to actualy work... But the PCB has not been updated.
+  
+  ![image](https://user-images.githubusercontent.com/13119623/122222164-58f9b000-cef5-11eb-9c96-89899f3e6e5a.png)
+
