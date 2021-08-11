@@ -1,5 +1,5 @@
-#TEC-1 DaS Board
-<H1>(Display and Serial)</h1>
+# TEC-1 DaS Board
+<H1>(Display and Serial Board)</h1>
 
 his board plugs into the expansion port (and others) of the original Tec-! and gives the user access to an LCD display (either 16x02 or 20x04) that can be used with JMON.
 
