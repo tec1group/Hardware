@@ -10,3 +10,7 @@ There is a bank of DIP switches that allows input for defaults at startup, like 
 Lastly, it introduces what every TEC-1 should have had from day one; An expansion port that has all the required data lines for easy add-ons.
 
 ![TEC-1 DaS PCB Front](https://user-images.githubusercontent.com/13119623/128989004-c792bedd-628d-48d9-9794-fe24c0605645.JPG)
+
+Here is the Schamtic for quick viewing:
+
+![image](https://user-images.githubusercontent.com/13119623/135734425-48cee8c2-8662-4b27-a1b1-7308d6507494.png)
