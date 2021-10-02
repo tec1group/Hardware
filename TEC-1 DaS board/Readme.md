@@ -13,4 +13,5 @@ Lastly, it introduces what every TEC-1 should have had from day one; An expansio
 
 Here is the Schamtic for quick viewing:
 
-![image](https://user-images.githubusercontent.com/13119623/135734425-48cee8c2-8662-4b27-a1b1-7308d6507494.png)
+![image](https://user-images.githubusercontent.com/13119623/135734686-ee3af49c-4a67-4063-9251-08c0be0b9140.png)
+
