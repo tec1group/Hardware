@@ -10,5 +10,6 @@ Well the time has come to answer most of these questions with the release of a n
 
 <h2>TEC Expander 8x8</h2>
 First out of the gate is to update and make for a LOT easier to build, the 8x8 LED Matrix. This little cutie uses thosE ever so cheap and plentiful, single module 64 LED arranged in an 8x8 array. You can pick them up from eBay for $10 or less. Way easer than soldeing in and making pretsels out of the legs.
-  ![image](https://user-images.githubusercontent.com/13119623/149134246-94b2aca2-2901-4ee6-a7d6-eab1dc57ed22.png)
+
+![image](https://user-images.githubusercontent.com/13119623/149134246-94b2aca2-2901-4ee6-a7d6-eab1dc57ed22.png)
 
