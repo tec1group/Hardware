@@ -13,3 +13,11 @@ First out of the gate is to update and make for a LOT easier to build, the 8x8 L
 
 ![image](https://user-images.githubusercontent.com/13119623/149134246-94b2aca2-2901-4ee6-a7d6-eab1dc57ed22.png)
 
+Two versions of the board will be made: one with the original layout as per the Talking Electronics 8x8, and another version that is coined "byte aligned" since the LSB will be on the RHS of the module, and rows will be counted from the bottom tot he top. Makes sense, right? And apparently this is how the Souther Cross version of the 8x8 was wired. Well done!
+
+<h2>Coming Soon™</h2>
+On the drawing board are a few more PCBs including:
+  - A clock / Timing board that will give you an accurate counter and let you know what speed the TEC is running at.
+  - A MAX board for further (and wider) LED fun.
+  - A 4x20 LCD board
+  - An I2C interface board
