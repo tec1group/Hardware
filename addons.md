@@ -1,6 +1,6 @@
-# Hardware add-ons for the tEC-1 and SC-1
+# Hardware add-ons for the TEC-1 and SC-1
 
-The follwing is a list of available hardware pojects, along with information on compatability, author, upport uRLs and so forth.
+The follwing is a list of available hardware pojects, along with information on compatability, author, support URLs and so forth.
 
 Feel free to expand and update as necessary. New contributors welcome!
 
