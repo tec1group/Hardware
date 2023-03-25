@@ -1,7 +1,7 @@
 This Repository is for all files that relate to the hardware of the TEC-1:
 - Any expansion boards suitable for the TEC-1
 - Any alternative/derivative motherboards to the TEC-1.
-- and possibly any other Z80-based motherboards (eg. SC-1) and their expansionsm, although they should all be grouped in one folder.
+- and possibly any other Z80-based motherboards (eg. SC-1) and their expansions, although they should all be grouped in one folder.
 
 <h1>How to Use this Repo</h1>
 1. Make a FORK of this Repo to your own account. (You know you want to.)
