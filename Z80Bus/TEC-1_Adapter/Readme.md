@@ -1,20 +1,15 @@
 # TEC-1 Z80Bus Adapter
 
-The current TEC-1F (shamedly) and all its previous incarnations suffer from a difficult and awkward method of expansion, 
-namely stacking things on top of the extra memory socket and then using fly leads to connect extra Z80 lines.
+The current TEC-1F (shamedly) and all its previous incarnations suffer from a difficult and awkward method of expansion, namely stacking things on top of the extra memory socket and then using fly leads to connect extra Z80 lines.
 
 But with this Z80Bus Adapter, you can turn your tired old TEC-1 (or any Z80-based machine) into a new powerhouse of connectivity!
 
-Build this nifty adapter in a few minutes, then you're onto making reliable connections and expansions, easy! This is a render
-of what the finished result should look like, before soldering it into place on your motherboard.
+This is a render of what the finished result should look like, before soldering it into place on your motherboard.
 
 ![Z80Bus Adapter](TEC-1_Z80Bus_Adapter_Render.jpg)
 
 ## Assembly Instructions
-1. If you are lucky enough to find out about the Z80Bus before you have soldered in either your Z80 or the 40 pin IC socket
-for your Z80, then you are one step ahead and saved yourself a lot of hassle desoldering the chip or socket. Some have
-suggested that you could leave an IC socket and jamb the long riser legs into it, but IDC cables and sockets are pretty stiff
-to plug and unplug, so my suggestion is to make it as firm as possible, and that means removing the existing Z80 or socket.
+1. If you are lucky enough to find out about the Z80Bus before you have soldered in either your Z80 or the 40 pin IC socket for your Z80, then you are one step ahead and saved yourself a lot of hassle desoldering the chip or socket. Some have suggested that you could leave an IC socket and jamb the long riser legs into it, but IDC cables and sockets are pretty stiff to plug and unplug, so my suggestion is to make it as firm as possible, and that means removing the existing Z80 or socket.
 
 2. To build up the Z80Bus Adapter, you only need a handful of components:
 
