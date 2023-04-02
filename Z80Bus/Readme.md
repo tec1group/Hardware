@@ -1,5 +1,5 @@
-#Z80Bus - Connecting Past to the Future
-##The Past
+# Z80Bus - Connecting Past to the Future
+## The Past
 The current TEC-1F (shamedly) and all its previous incarnations suffer from a difficult and awkward method of expansion, 
 namely stacking things on top of the extra memory socket and then using fly leads to connect extra lines like
 any Input/Output port select lines, memory select lines or any extras like the M1 on INT lines which are not 
@@ -10,7 +10,7 @@ based on the pinouts of the Z80. It uses a vertical male IDC Boxed Header which 
 IDC cables which have their own issues: You can only have one module plugged in... unless you go hippie and do a daisy chain of an
 even longer and uglier cable arangement. Close, but no cigar.
 
-##The Inspiration
+## The Inspiration
 I have been involved with and designing boards for the RC2014 system and have to say the ease of creating boards, and the solidity
 and neatness of plugging those boards into a base-board, all lined up like little soldiers, was very appealing to me. And then I came across
 another similar design that attaches to the Amstrad line of Z80 machines allowing easy expansion, called the X4 system which has become
@@ -18,7 +18,7 @@ a defact standard for the CPC line of machines.
 
 This was the insparation for the Z80Bus X4 Board and I had to make it available for the TEC-1. But first, we need an Adapter!
 
-##The Future
+## The Future
 With the release of the Z80Bus Standard, including the KiCAD footprints and Gerbers so people can print their own Z80Bus system board,
 modules for the TEC-1 can very quickly and easily be developed that allow the USER to choose how they wish to connect the modules to
 their machines. Boards designed with the innovative <b>IDC<sup>2</sup></b> connector footprint allow the user to choose to go hippie
