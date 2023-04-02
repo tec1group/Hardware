@@ -6,7 +6,7 @@ any Input/Output port select lines, memory select lines or any extras like the M
 present in a standard 2K memory socket, let alone any extra address lines like the [Matrix Keyboard](https://github.com/Gonzo-XIII/TEC-1_Hardware/tree/master/Matrix_Keyboard) uses.
 
 Another Z80 machine of the era, essentially copying the TEC-1 in design, was fortunate enough to have a much better expansion system
-based on the pinouts of the Z80. It uses a male IDC Boxed Header which unfortunately means you can only use it for often long (and ugly)
+based on the pinouts of the Z80. It uses a vertical male IDC Boxed Header which unfortunately means you can only use it for often long (and ugly)
 IDC cables which have their own issues: You can only have one module plugged in... unless you go hippie and do a daisy chain of an
 even longer and uglier cable arangement. Close, but no cigar.
 
