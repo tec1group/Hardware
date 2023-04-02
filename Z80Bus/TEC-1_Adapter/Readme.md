@@ -8,6 +8,8 @@ But with this Z80Bus Adapter, you can turn your tired old TEC-1 (or any Z80-base
 Build this nifty adapter in a few minutes, then you're onto making reliable connections and expansions, easy! This is a render
 of what the finished result should look like, before soldering it into place on your motherboard.
 
+![Z80Bus Adapter](TEC-1_Z80Bus_Adapter_Render.jpg)
+
 ## Assembly Instructions
 1. If you are lucky enough to find out about the Z80Bus before you have soldered in either your Z80 or the 40 pin IC socket
 for your Z80, then you are one step ahead and saved yourself a lot of hassle desoldering the chip or socket. Some have
