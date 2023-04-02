@@ -26,6 +26,7 @@ and continue to use ugly IDC cables with a Vertical IDC Box Header, or with a Ri
 to connect using IDC cables, "Quick-Connect" direct to the TEC-1, or using the X4 system and have multiple expansions boards
 all working in unison. The Future is NOW!
 
+![Z80Bus X4 Board](Z80Bus X4 Board Render.JPG)
 
 ## How to make your own Z80Bus boards
 Download the KiCAD footprint for the <b>IDC<sup>2</sup> Connector</b> [here](Z80Bus-Header_V+H_Plug.kicad_mod).
