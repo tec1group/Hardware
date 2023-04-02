@@ -27,5 +27,5 @@ to connect using IDC cables, "Quick-Connect" direct to the TEC-1, or using the X
 all working in unison. The Future is NOW!
 
 
-4. How to make your own Z80Bus boards
-5. KiCAD footprint
+## How to make your own Z80Bus boards
+Download the KiCAD footprint for the <b>IDC<sup>2</sup> Connector</b> [here](Z80Bus-Header_V+H_Plug.kicad_mod).
