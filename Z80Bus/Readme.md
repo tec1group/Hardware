@@ -30,4 +30,5 @@ all working in unison. The Future is NOW!
 ## How to make your own Z80Bus boards
 Download the KiCAD footprint for the <b>IDC<sup>2</sup> Connector</b> [here](Z80Bus-Header_V+H_Plug.kicad_mod).
 
-To make really cool and realistic renders of your boards, here are the 3D models of the [IDC connectors](IDC-Headers+Sockets_Vertical+RightAngled.zip). Unzip the four files into your KiCad\6.0\share\kicad\3dmodels\Connector_IDC.3dshapes folder.
+To make really cool and realistic renders of your boards, here are the 3D models of the [IDC connectors](IDC-Headers+Sockets_Vertical+RightAngled.zip). 
+Unzip the four files into your KiCad\6.0\share\kicad\3dmodels\Connector_IDC.3dshapes folder.
