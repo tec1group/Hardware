@@ -1,4 +1,4 @@
-# Z80Bus - Connecting Past to the Future
+# Z80Bus - Connecting the Past to the Future
 ## The Past
 The current TEC-1F (shamedly) and all its previous incarnations suffer from a difficult and awkward method of expansion, 
 namely stacking things on top of the extra memory socket and then using fly leads to connect extra lines like
