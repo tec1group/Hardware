@@ -39,5 +39,7 @@ This is a render of what the finished result should look like, before soldering 
 
 With all that done, you should have a TEC-1 that looks similar to the picture below. Welcome to the Future of easy yet reliable connectivity!
 
+I doubt anyone will get much out of the schematic, but [here it is](TEC-1_Z80Bus_Adapter_Schematic.pdf) for reference.
+
 <a href="https://www.pcbway.com/project/shareproject/W236084ASZ31_TEC_Z80Bus_Converter_fd657783.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 ![Z80Bus Adapter PCB](Z80Bus_Adapter_PCB.jpg)
