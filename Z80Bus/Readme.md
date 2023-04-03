@@ -16,8 +16,8 @@ With the release of the Z80Bus Standard, including the KiCAD footprints and Gerb
 
 Not there is much to gain from the schematic, but [here it is](Z80Bus_X4_Board_Schematic.pdf).
 
-And here is a picture of the PCB:
-![PCB](Z80Bus_X4_PCB.jog)
+And here is a picture of the PCB.
+![PCB](Z80Bus_X4_PCB.jpg)
 
 ## How to make your own Z80Bus expansion boards
 Download the KiCAD footprint for the <b>IDC<sup>2</sup> Connector</b> [here](Z80Bus-Header_V+H_Plug.kicad_mod).
