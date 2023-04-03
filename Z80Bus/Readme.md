@@ -14,9 +14,9 @@ even longer and uglier cable arangement. Close, but no cigar.
 I have been involved with and designing boards for the RC2014 system and have to say the ease of creating boards, and the solidity
 and neatness of plugging those boards into a base-board, all lined up like little soldiers, was very appealing to me. And then I came across
 another similar design that attaches to the Amstrad line of Z80 machines allowing easy expansion, called the X4 system which has become
-a defact standard for the CPC line of machines.
+a defacto standard for the CPC line of machines.
 
-This was the insparation for the Z80Bus X4 Board and I had to make it available for the TEC-1. But first, we need an Adapter!
+This was the insparation for the Z80Bus X4 Board and I had to make it available for the TEC-1 community. But first, we need an [Adapter](https://github.com/Gonzo-XIII/TEC-1_Hardware/tree/master/Z80Bus/TEC-1_Adapter)!
 
 ## The Future
 With the release of the Z80Bus Standard, including the KiCAD footprints and Gerbers so people can print their own Z80Bus system board,
