@@ -19,7 +19,9 @@ This is a render of what the finished result should look like, before soldering 
 | 20mm Risers | 1 row of 80 pin risers 20mm high, cut into 2x 40 pins like these [on eBay](https://www.ebay.com.au/itm/283986436718)|
 | 40pin Socket | 40 Pin IC socket for the Z80 |
 | C1 | 100n Ceramic capacitor |
-| IDC40F-RA | 40 pin female IDC socket, right angled  like this [at DigiKey](https://www.digikey.com.au/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D20-RA-BK/1990101)|
+| IDC40F-V | 40 pin female IDC socket, vertical like this [at DigiKey](https://www.digikey.com.au/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D20-ST-BK/1990093)|
+
+(Here is the whole BOM, on DigiKey: https://www.digikey.com.au/en/mylists/list/BGTS896PHX)
 
 3. <b>The order in which you assemble the adapter is important!</b> First you solder in the centre riser (the one that will be between the pins of the IC socket) from underneath the board, making sure only a minimum of the pins pokes through to the top of the board. Getting the risers soldered in straight and spaced correctly is the hardest part of this build. If possible, I would insert both risers into either another 40 pin socket or even into the Z80 holes of the motherboard (but don't solder them into the motherboard, yet!) just to help you align it all. Start with tacking in just one pin of the <b>ONE</b> riser between the pins of the Z80 socket. Make adjustments to make them parallel or line up if needed by heating up that one tacked pin, adjusting the position of the riser, letting it cool and checking the alignmernt. Once you are happy, solder in the pin on the other and of the same riser. Check alignment, again. Make adjustments as above, again. Then if all it lined up, solder in the rest of the 18 pins of this first riser.
 
