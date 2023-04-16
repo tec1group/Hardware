@@ -1,6 +1,6 @@
 # Z80Bus - Connecting the Past to the Future
 ## The Past
-The current TEC-1F (ashamedly) and all its previous incarnations suffer from a difficult and awkward method of expansion, namely stacking things on top of the extra memory socket and then using fly leads to connect extra lines like any Input/Output port select lines, memory select lines or any extras like the M1 on INT lines which are not present in a standard 2K memory socket, let alone any extra address lines like the [Matrix Keyboard](https://github.com/Gonzo-XIII/TEC-1_Hardware/tree/master/Matrix_Keyboard) uses.
+The current TEC-1F (ashamedly) and all its previous incarnations suffer from a difficult and awkward method of expansion, namely stacking things on top of the extra memory socket and then using fly leads to connect extra lines like any Input/Output port select lines, memory select lines or any extras like the M1 on INT lines which are not present in a standard 2K memory socket, let alone any extra address lines like the [Matrix Keyboard](../Matrix_Keyboard) uses.
 
 Another Z80 machine of the era, essentially copying the TEC-1 in design, was fortunate enough to have a much better expansion system based on the pinouts of the Z80. It uses a vertical male IDC Boxed Header which unfortunately means you can only use it for often long (and ugly) IDC cables which have their own issues: You can only have one module plugged in... unless you go hippie and do a daisy chain of an even longer and uglier cable arangement. Close, but no cigar.
 
