@@ -6,7 +6,7 @@ But with this Z80Bus Adapter, you can turn your tired old TEC-1 (or any Z80-base
 
 This is a render of what the finished result should look like, before soldering it into place on your motherboard.
 
-![Z80Bus Adapter](TEC-1_Z80Bus_Adapter_Render.jpg)
+![Z80Bus Adapter](TEC-1_Z80Bus_Adapter.jpg)
 
 ## Assembly Instructions
 1. If you are lucky enough to find out about the Z80Bus before you have soldered in either your Z80 or the 40 pin IC socket for your Z80, then you are one step ahead and saved yourself a lot of hassle desoldering the chip or socket. Some have suggested that you could leave an IC socket and jamb the long riser legs into it, but IDC cables and sockets are pretty stiff to plug and unplug, so my suggestion is to make it as firm as possible, and that means removing the existing Z80 or socket.
