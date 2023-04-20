@@ -13,7 +13,7 @@ I quickly went about making a prototype of just a hex keypad, but using his matr
 We worked well together (I believe the youth of today call this a "colab") and in very short order, a keyboard PCB was design and printed and a working sample sent to Brian for final development of the code, and make a new video for his popular channel on YouTube featuring the Z80Bus Matric Keyboard.
 
 ## Matrix Interface
-The brains of the Matric Keybaord is held in this [board](/Matrix_Interface).
+The brains of the Matrix Keyboard is held in this [interface board](/Matrix_Interface) that slots into a Z80Bus socket.
 
 ## The Tactile Keyboard
 The tactile keyboard details and assembly instructions can be found [here](/Tactile_Keyboard)
