@@ -4,6 +4,9 @@
 The TEC-1 came out in 1983 and I eagerly built it, and coded many of the samples and even made my own maze game all entered by hand on, lets face it, the crappy hex keyboard with the terrible layout. I didn't stand for it for too long before I made my own keyboard out of full sized keys. Still only in hex, but man it made a difference!
 
 Fast forward 40 years (Happy Anniversary, TEC-1!) and I'm still hating on the keyboard. LOL! But I was always on the lookout for some way to get a full sized QWERTY keyboard onto the TEC-1. I gathered schematics and circuit designs from all across the internet... Here are just a few.
+![Scanning Keyboard 1](Scanning_Keyboard_Schematic1.jpg)
+![Scanning Keyboard 2](Scanning_Keyboard_Schematic2.jpg)
+![Spectrum for Satellite](Spectrum_keyboard_for_Satellite.png)
 
 ## Design Process
 I finally came across a keyboard interface for the RC2014 designed by [Marco Maccaferri](https://www.maccasoft.com/electronics/matrix-keyboard-for-rc2014/) that claimed the design was basically how the ZX Spectrum did its keyboard scanning. So I figured, if it was good enough for the Spectrum... And the best part was that Marco included some incredibly simple source code that even I could follow along. I had struck gold!
